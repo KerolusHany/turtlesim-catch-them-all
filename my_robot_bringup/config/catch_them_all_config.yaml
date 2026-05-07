@@ -1,0 +1,8 @@
+/elfanan_controller:
+  ros__parameters:
+    catch_closest_turtle_first: True
+
+/elfanan_spawner:
+  ros__parameters:
+    turtle_name: "test"
+    turtle_frequency: 0.1
