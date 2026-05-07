@@ -1,6 +1,4 @@
 # Project Demo
 
-## Video
-
-[Watch the project demo](./video.mp4)
+![Project Demo](./Screenshot.png)
 
